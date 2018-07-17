@@ -1,0 +1,24 @@
+{
+  "name": "angularjs_skeleton",
+  "homepage": "https://github.com/vkyadav998/angularjs_skeleton",
+  "authors": [
+    "meindian <vkyadav998@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "^1.7.2",
+    "angular-aria": "^1.7.2",
+    "angular-route": "^1.7.2",
+    "bootstrap": "^4.1.2",
+    "jquery": "^3.3.1"
+  }
+}
